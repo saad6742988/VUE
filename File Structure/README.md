@@ -17,7 +17,7 @@
 >>
 >>1. main.js
 >>
->>>>This is our Apstarting point. In this file, we specify our root component that is App.vue, then this root element is served in our `public/index.html` file.
+>>>>This is our App starting point. In this file, we specify our root component that is App.vue, then this root element is served in our `public/index.html` file.
 >>
 >>2. App.vue
 >>
