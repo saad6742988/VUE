@@ -10,7 +10,7 @@
    <div>{{greet}} {{name}}!</div>
 
    <!-- Binding Text from script block using Directives -->
-  <div v-text="name">Hello</div>
+  <div v-text="name"></div>
 </div>
 </template>
 
