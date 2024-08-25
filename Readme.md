@@ -5,3 +5,4 @@
 1. [Binding Text](https://github.com/saad6742988/VUE/tree/main/3.%20Binding%20Text)
 1. [Binding HTML](https://github.com/saad6742988/VUE/tree/main/4.%20HTML%20Binding)
 1. [Bindning to Attributes](https://github.com/saad6742988/VUE/tree/main/5.%20Bindning%20to%20Attributes)
+1. [Binding Classes](https://github.com/saad6742988/VUE/tree/main/6.%20Binding%20CSS%20Classes)
